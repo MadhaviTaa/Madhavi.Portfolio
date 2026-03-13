@@ -1,4 +1,3 @@
-# Portfolio
 # Madhavi Prabhakar Thakare
 
 🎓 B.Tech in Computer Engineering | Data Analyst | Power BI Developer | Machine Learning Enthusiast  
